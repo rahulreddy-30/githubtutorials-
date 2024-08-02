@@ -1,0 +1,2 @@
+this is my first text document without a commit 
+this will be my second commit nothing much just learning git 
